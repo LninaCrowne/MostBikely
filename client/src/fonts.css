@@ -1,0 +1,14 @@
+
+@font-face {
+    font-family: 'Cotford Var';
+    src: url('./fonts/Monotype-Cotford-Var.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Neue Plak';
+    src: url('./fonts/NeuePlakTextVariable.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
